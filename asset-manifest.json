@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/battle-tent/static/css/main.886bcbed.chunk.css",
+    "main.js": "/battle-tent/static/js/main.1002adb2.chunk.js",
+    "main.js.map": "/battle-tent/static/js/main.1002adb2.chunk.js.map",
+    "runtime-main.js": "/battle-tent/static/js/runtime-main.1957e468.js",
+    "runtime-main.js.map": "/battle-tent/static/js/runtime-main.1957e468.js.map",
+    "static/js/2.5222e4b6.chunk.js": "/battle-tent/static/js/2.5222e4b6.chunk.js",
+    "static/js/2.5222e4b6.chunk.js.map": "/battle-tent/static/js/2.5222e4b6.chunk.js.map",
+    "index.html": "/battle-tent/index.html",
+    "precache-manifest.179517d4968b912644bbfadeaac5cec8.js": "/battle-tent/precache-manifest.179517d4968b912644bbfadeaac5cec8.js",
+    "service-worker.js": "/battle-tent/service-worker.js",
+    "static/css/main.886bcbed.chunk.css.map": "/battle-tent/static/css/main.886bcbed.chunk.css.map",
+    "static/js/2.5222e4b6.chunk.js.LICENSE.txt": "/battle-tent/static/js/2.5222e4b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1957e468.js",
+    "static/js/2.5222e4b6.chunk.js",
+    "static/css/main.886bcbed.chunk.css",
+    "static/js/main.1002adb2.chunk.js"
+  ]
+}
