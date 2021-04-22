@@ -77,10 +77,10 @@ export default function Lobby() {
 
   return (
     <LayoutContainer>
-      <header style={{ marginTop: 80 }}>
+      <header style={{ marginTop: 20 }}>
         <Navbar />
         <Centered>
-          <img src={Logo} alt='Battle Tent' style={{ width: 200 }} />
+          <img src={Logo} alt='Battle Tent' style={{ width: 300 }} />
           <img src={Welcome} alt='Welcome' style={{ width: 250 }} />
           <Banner style={{ marginBottom: 20 }}>{player.name}</Banner>
         </Centered>
